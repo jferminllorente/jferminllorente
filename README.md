@@ -1,4 +1,2 @@
 - 👋 Hi, I’m @jferminllorente
-- 🌱 I’m currently studying Telecommunications Engineering at UNLP (Argentina), my expected graduation date is Dec. 2022.
-- 👀 I’m interested in Digital Communications, Signal Processing, GNSS and Software Defined Radio techniques.
 - 📫 How to reach me: fermin.llorente@ing.unlp.edu.ar
