@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @jferminllorente
 - 📫 How to reach me: fermin.llorente@ing.unlp.edu.ar
-- Affiliation: SENyT - Electronic Systems for Telecommunications and Navigation (senyt.ar) & CONICET - National Scientific and Technical Research Council.
+- Affiliation: SENyT - Electronic Navigation and Telecommunications Systems Research Group (senyt.ar) & CONICET - National Scientific and Technical Research Council, Argentina.
